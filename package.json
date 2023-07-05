@@ -1,0 +1,20 @@
+{
+  "name": "eccomercefullstackbackend",
+  "version": "1.0.0",
+  "description": "A complete eCommerce project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ravi-Krt-Patel/eccomerceFullStackBackend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ravi-Krt-Patel/eccomerceFullStackBackend/issues"
+  },
+  "homepage": "https://github.com/Ravi-Krt-Patel/eccomerceFullStackBackend#readme"
+}
